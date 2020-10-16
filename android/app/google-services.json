@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "242274114525",
+    "firebase_url": "https://homecareveterinario-2ace1.firebaseio.com",
+    "project_id": "homecareveterinario-2ace1",
+    "storage_bucket": "homecareveterinario-2ace1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242274114525:android:a658a870c92a68371ff434",
+        "android_client_info": {
+          "package_name": "com.example.home_care_veterinario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242274114525-q786s3f83rrs85rk6hffj24l2spmeg6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlME0VsXyTVwdNX2EGeEwjBS3pM0j6NUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242274114525-q786s3f83rrs85rk6hffj24l2spmeg6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
